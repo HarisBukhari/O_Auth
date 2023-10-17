@@ -1,0 +1,24 @@
+{
+  "name": "o_auth",
+  "version": "1.0.0",
+  "description": "This is exercises, I am going to learn about O Authentication 2.0.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarisBukhari/O_Auth.git"
+  },
+  "author": "Zotac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarisBukhari/O_Auth/issues"
+  },
+  "homepage": "https://github.com/HarisBukhari/O_Auth#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "shortid": "^2.2.16"
+  }
+}
